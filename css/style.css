@@ -1,0 +1,12 @@
+/* initially setting the margin padding to 0  */
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100%;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto ;
+}
