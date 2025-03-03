@@ -270,6 +270,7 @@ right: 0;
 background-color:rgba(4,62,47,255);
 border-bottom-left-radius: 30px;
 }
+/* lower para div  */
 .lower-para{
     display: flex;
     flex-direction: column;
@@ -279,13 +280,13 @@ border-bottom-left-radius: 30px;
     margin-left: 600px;
     
 }
-
+/* p in mob-content  */
 .mob-content p{
     font-family: "worksans-regular";
     font-size: 25px;
     color: rgba(203,215,199,255);
 }
-
+bi
 .mob-buttons{
     display: flex;
     gap: 10px
@@ -306,15 +307,15 @@ border-bottom-left-radius: 30px;
     background-color: rgba(238, 242, 227, 255);
     color: rgba(4, 62, 47, 255);
 }
-
-.mob-buttons :hover {
+.mob-buttons :hover{
     background-color: rgba(238, 242, 227, 255);
     color: rgba(4, 62, 47, 255);
-    /* text-decoration-color:rgba(4, 62, 47, 255) ; */
 }
-/* .mob-buttons p :hover{
-      color: ;
-} */
+
+.mob-buttons button :hover{
+    background-color: rgba(238, 242, 227, 255);
+    color: rgba(4, 62, 47, 255);
+}
 
 .mob-buttons button p{
     font-family: "worksans-regular";
